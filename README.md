@@ -11,21 +11,9 @@ Once you have Wireshark installed, you can install the SafetyNet-P dissector by 
 
     Clone the SafetyNet-P dissector repository to your local machine:
 
-bash
-
-git clone https://github.com/yourusername/safetynet-p-dissector.git
-
-    Build the dissector by running the following command from the root directory of the repository:
-
-go
-
-make
-
-    Install the dissector by copying the safetynet-p.so file to the appropriate Wireshark plugin directory:
-
 On Windows:
 
-makefile
+Copy the .lua file to the following location:
 
 C:\Program Files\Wireshark\plugins
 
