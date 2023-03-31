@@ -53,3 +53,5 @@ This is my first project and I'm still learning, so any feedback, suggestions or
 If you're not sure where to start, check out the issues page for a list of known issues and feature requests. If you'd like to contribute but aren't sure how, you can also reach out to me via email or through the project's GitHub page.
 
 Thanks for your interest in the SafetyNet-P Wireshark Dissector! I hope you find it useful and I look forward to your contributions
+
+I added an example of a Wireshark trace, if you find anything that can be improved please let me know.
